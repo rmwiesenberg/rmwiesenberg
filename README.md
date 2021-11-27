@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rmwiesenberg
+- 👀 I’m interested in Robotics, AI, and Geospatial systems.
+- 🌱 I’m currently learning more on environmental simulation through video game design and I'm always trying new frameworks and finding some one-off to apply the knowledge.
+- 💞️ I’m looking to collaborate on impactful, innovative projects. Honestly, I just love talking about projects and bouncing ideas off of other people of any skill level even if I don't have experience so feel free to reach out! 
+- 📫 How to reach me -> Probably my [LinkedIn](https://www.linkedin.com/in/rmwiesenberg/]).
